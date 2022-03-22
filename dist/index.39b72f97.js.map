@@ -1,0 +1,1 @@
+{"mappings":"AAEAA,QAAQC,IAAI","sources":["src/script/main.js"],"sourcesContent":["// import '@fortawesome/fontawesome-free/css/all.css'\n\nconsole.log('sss')\n\nconst test = \"Bonjour\""],"names":["console","log"],"version":3,"file":"index.39b72f97.js.map"}
