@@ -1,0 +1,16 @@
+{
+  "name": "starter-pack-parcel",
+  "source": "src/index.html",
+  "browserslist": "> 0.25%, not dead",
+  "scripts": {
+    "dev": "./node_modules/.bin/parcel",
+    "build": "./node_modules/.bin/parcel build"
+  },
+  "author": "Florian BROTTE",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/resolver-glob": "^2.4.0",
+    "@parcel/transformer-sass": "^2.4.0",
+    "parcel": "^2.4.0"
+  }
+}
